@@ -1,30 +1,56 @@
-# Greetings, I'm Kourosh! 👋
+# Greetings, Kourosh here 🤙
+I'm a Computer Science & Engineering student at [Sabancı University](https://www.sabanciuniv.edu/en), and interested in artificial intelligence.
 
-I'm a [Your Job Title] with a passion for [Your Interests]. 
 
-- 🔭 I’m currently working on [Current Project]
-- 🌱 I’m currently learning [Current Learning Goals]
-- 💬 Ask me about [Your Skills]
-- 📫 How to reach me: [Your Contact Information]
-- 😄 Pronouns: [Your Pronouns]
-
-## Skills
-
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
-
-## Projects
-
-- [Astrophysical Image Processing Using JWST Observations](https://github.com/KouroshKSH/Astrophysical-Image-Processing-Using-JWST)
-- [C19 Data Dashboard](https://github.com/KouroshKSH/c19)
-- [CS Course Graph](https://github.com/KouroshKSH/CS-Course-Graph)
+## Languages & Tools
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge" />
+  </a>
+  
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
+  </a>
+  
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge" />
+  </a>
+  
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook Badge" />
+  </a>
+  
+  <a href="https://obsidian.md/" target="_blank">
+    <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian Badge" />
+  </a>
+  
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" />
+  </a>
+  
+  <a href="https://www.latex-project.org/" target="_blank">
+    <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX Badge" />
+  </a>
+</p>
 
 
 ## Find Me Online
+<p align="left">
+  <a href="https://www.linkedin.com/in/kouroshsharifi/" target="_blank">
+          <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
 
-[![alt text](https://i.imgur.com/E3U3d6u.png "Your Website")](https://www.yourwebsite.com/)
-[![alt text](https://i.imgur.com/QsXsBaW.png "LinkedIn")](https://www.linkedin.com/in/yourusername/)
+  <a href="https://www.kaggle.com/kouroshsharifi" target="_blank">
+          <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge" />
+  </a>
+
+  <a href="https://dribbble.com/kourosh-sharifi" target="_blank">
+          <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble Badge" />
+  </a>
+</p>
 
 
-## Statistics
+## My Stats
+<p align="left">
+        <img src="https://github-readme-stats.vercel.app/api?username=KouroshKSH&theme=dark&show_icons=true&include_all_commits=true&locale=en" alt="General Statistics" width="475px" />
+</p>
