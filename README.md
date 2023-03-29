@@ -16,26 +16,10 @@ I'm a [Your Job Title] with a passion for [Your Interests].
 
 ## Projects
 
-- [Project 1]
-- [Project 2]
-- [Project 3]
+- [Astrophysical Image Processing Using JWST Observations](https://github.com/KouroshKSH/Astrophysical-Image-Processing-Using-JWST)
+- [C19 Data Dashboard](https://github.com/KouroshKSH/c19)
+- [CS Course Graph](https://github.com/KouroshKSH/CS-Course-Graph)
 
-## Education
-
-- [Degree], [Major], [School]
-- [Degree], [Major], [School]
-
-## Certifications
-
-- [Certification 1]
-- [Certification 2]
-- [Certification 3]
-
-## Experience
-
-- [Job Title], [Company], [Duration]
-- [Job Title], [Company], [Duration]
-- [Job Title], [Company], [Duration]
 
 ## Find Me Online
 
@@ -44,8 +28,3 @@ I'm a [Your Job Title] with a passion for [Your Interests].
 
 
 ## Statistics
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/yourrepo?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/yourrepo?style=social)
-
