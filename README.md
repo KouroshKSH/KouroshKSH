@@ -54,3 +54,5 @@ As a Computer Science & Engineering student at [Sabancı University](https://www
 <p align="left">
         <img src="https://github-readme-stats.vercel.app/api?username=KouroshKSH&theme=dark&show_icons=true&include_all_commits=true&locale=en" alt="General Statistics" width="475px" />
 </p>
+
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KouroshKSH&theme=react&line_height=40&hide=css"/> </a>
