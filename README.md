@@ -24,6 +24,10 @@ As a Computer Science & Engineering student at [Sabancı University](https://www
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" />
   </a>
   &nbsp;
+  <a href="https://www.java.com/en/" target="_blank">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge" />
+  </a>
+  &nbsp;
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
   </a>
@@ -38,10 +42,6 @@ As a Computer Science & Engineering student at [Sabancı University](https://www
 <p align="left">
   <a href="https://www.linkedin.com/in/kouroshsharifi/" target="_blank">
           <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  &nbsp;
-  <a href="https://www.kaggle.com/kouroshsharifi" target="_blank">
-          <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge" />
   </a>
 </p>
 
