@@ -45,8 +45,7 @@ As a Computer Science & Engineering student at [Sabancı University](https://www
   </a>
 </p>
 
-
-## My Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KouroshKSH&theme=dark&count_private=true&show_icons=true" alt="General Statistics" width="475px"/>
-</p>
+<!-- ## My Stats -->
+<!-- <p align="left"> -->
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=KouroshKSH&theme=dark&count_private=true&show_icons=true" alt="General Statistics" width="475px"/> -->
+<!-- </p> -->
