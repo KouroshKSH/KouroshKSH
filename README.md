@@ -43,6 +43,9 @@ As a Computer Science & Engineering student at [Sabancı University](https://www
   <a href="https://www.linkedin.com/in/kouroshsharifi/" target="_blank">
           <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
+
+  <a href="https://medium.com/@kourosh.sharifi" target="_blank">
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" />
 </p>
 
 <!-- ## My Stats -->
