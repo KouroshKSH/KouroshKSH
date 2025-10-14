@@ -1,6 +1,8 @@
-# Greetings, Kourosh here 🤙
-As a Computer Science & Engineering student at [Sabancı University](https://www.sabanciuniv.edu/en), I'm interested in pursuing a career in artificial intelligence.
+# Greetings, Kourosh here
 
+I'm a **Master’s student in Machine Learning** at the [University of Tübingen](https://uni-tuebingen.de/en/), with a **B.Sc. in Computer Science** and a **minor in Mathematics** from [Sabancı University](https://www.sabanciuniv.edu/en).
+
+I **co-founded the first [AI Club](https://kaisabanci.com/) at Sabancı University** and **co-authored a [research paper](https://icml.cc/virtual/2024/39024)** in collaboration with **Yale University**, accepted to the *ICML 2024 Conference*.
 
 ## Languages & Tools
 <p align="left">
@@ -46,6 +48,10 @@ As a Computer Science & Engineering student at [Sabancı University](https://www
 
   <a href="https://medium.com/@kourosh.sharifi" target="_blank">
         <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" />
+
+  <a href="https://scholar.google.com/citations?user=JKDX3nwAAAAJ&hl" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Badge" />
+  </a>
 </p>
 
 <!-- ## My Stats -->
