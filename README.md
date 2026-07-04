@@ -1,4 +1,6 @@
-![𐎠𐎥𐎥𐎠𐎥](assets/eagle_static_banner.png)
+<p align="center">
+  <img src="assets/eagle_red_dark.gif" width="100%" alt="𐎠𐎥𐎥𐎠𐎥">
+</p>
 
 *Dorood.* I'm Kourosh (𐎠𐎥𐎥𐎠𐎥), an ML Master's student at the [University of Tübingen](https://uni-tuebingen.de/en/study/finding-a-course/degree-programs-available/detail/course/machine-learning-master/) and an ML Engineer at [Heimat Software GmbH](https://heimat-software.com/). 
 
